@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899040613668",
+    "project_id": "gaurav-sigma",
+    "storage_bucket": "gaurav-sigma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899040613668:android:61861d87679c1b50c50fb1",
+        "android_client_info": {
+          "package_name": "com.example.sigmagg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899040613668-3jh087kntchsi7ohqhjmfa879m0mg48e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJfWEF147wyRH3iFcHuLJnPrKA8AoIO9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899040613668-3jh087kntchsi7ohqhjmfa879m0mg48e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
